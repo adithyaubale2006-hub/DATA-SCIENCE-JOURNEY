@@ -1,18 +1,46 @@
-# DAY 2
+# Day 2 — Statistics for Data Science
 
-Welcome to Day 2 of the Data Science Journey!
+## 🎯 Goal
 
-This directory contains the materials and notebooks for Day 2 of the learning journey.
+Understand statistical concepts required for Machine Learning and data analysis.
 
-## Contents
+## 📚 Topics Covered
 
-Add your notebooks and files here.
+### 📊 Central Tendency
 
-## Learning Objectives
+1. Mean
+2. Median
+3. Mode
 
-- Build on Day 1 concepts
-- Explore more advanced topics
+### 📈 Dispersion
 
-## Notes
+1. Range
+2. Variance
+3. Standard Deviation
 
-Feel free to add your notes and learnings from Day 2.
+### 📉 Distribution Analysis
+
+1. Skewness
+2. Outlier Detection
+
+### 🔗 Relationships Between Variables
+
+1. Correlation
+2. Covariance
+
+### 📊 Data Visualization
+
+1. Histogram
+2. Boxplot
+3. Correlation Heatmap
+
+## 🛠️ Skills Learned
+
+1. Statistical analysis
+2. Outlier identification
+3. Data distribution understanding
+4. Feature relationship analysis
+
+## 📁 Files
+
+- `day2_statistics.ipynb`
