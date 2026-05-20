@@ -1,34 +1,34 @@
 # Day 2 — Statistics for Data Science
 
-## 🎯 Goal
+##  Goal
 
 Understand statistical concepts required for Machine Learning and data analysis.
 
-## 📚 Topics Covered
+##  Topics Covered
 
-### 📊 Central Tendency
+###  Central Tendency
 
 1. Mean
 2. Median
 3. Mode
 
-### 📈 Dispersion
+###  Dispersion
 
 1. Range
 2. Variance
 3. Standard Deviation
 
-### 📉 Distribution Analysis
+###  Distribution Analysis
 
 1. Skewness
 2. Outlier Detection
 
-### 🔗 Relationships Between Variables
+###  Relationships Between Variables
 
 1. Correlation
 2. Covariance
 
-### 📊 Data Visualization
+###  Data Visualization
 
 1. Histogram
 2. Boxplot
@@ -43,4 +43,4 @@ Understand statistical concepts required for Machine Learning and data analysis.
 
 ## 📁 Files
 
-- `day2_statistics.ipynb`
+- `DAY 2.ipynb`
