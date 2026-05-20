@@ -42,4 +42,4 @@ Understand the fundamentals of Data Science and revise core Python + Pandas conc
 
 ## 📁 Files
 
-- `day1_practice.ipynb`
+- `DAY 1.ipynb`
