@@ -133,19 +133,19 @@ model = LogisticRegression()
 
 ## MAE
 
-MAE = \frac{1}{n}\sum |y - \hat{y}|
+$$\text{MAE} = \frac{1}{n}\sum |y - \hat{y}|$$
 
 ---
 
 ## MSE
 
-MSE = \frac{1}{n}\sum (y - \hat{y})^2
+$$\text{MSE} = \frac{1}{n}\sum (y - \hat{y})^2$$
 
 ---
 
 ## RMSE
 
-RMSE = \sqrt{MSE}
+$$\text{RMSE} = \sqrt{\text{MSE}}$$
 
 ---
 
@@ -153,7 +153,7 @@ RMSE = \sqrt{MSE}
 
 ## Accuracy
 
-Accuracy = \frac{Correct\ Predictions}{Total\ Predictions}
+$$\text{Accuracy} = \frac{\text{Correct Predictions}}{\text{Total Predictions}}$$
 
 ---
 
@@ -214,4 +214,3 @@ Train simple ML models
 Make predictions
 Understand overfitting
 Use evaluation metrics
-
