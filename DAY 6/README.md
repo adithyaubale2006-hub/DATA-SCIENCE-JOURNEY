@@ -76,7 +76,7 @@ Used for predicting numbers.
 
 Formula:
 
-genui{"math_block_widget_always_prefetch_v2":{"content":"y = mx + b"}}
+y = mx + b
 
 Example:
 
