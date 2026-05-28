@@ -31,6 +31,3 @@ This repository contains the implementation of core unsupervised learning algori
 
 ##  Contributing
 Feel free to open an issue or submit a pull request if you have ideas to optimize the clustering parameters or implement new anomaly detection models!
-
-## 📝 License
-Distributed under the MIT License.
